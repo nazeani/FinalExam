@@ -1,0 +1,17 @@
+C:\Users\ca.r213.08\source\repos\LumiaMVC1\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\ca.r213.08\source\repos\LumiaMVC1\Business\bin\Debug\net6.0\Business.dll
+C:\Users\ca.r213.08\source\repos\LumiaMVC1\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\ca.r213.08\source\repos\LumiaMVC1\Business\bin\Debug\net6.0\Core.dll
+C:\Users\ca.r213.08\source\repos\LumiaMVC1\Business\bin\Debug\net6.0\Data.dll
+C:\Users\ca.r213.08\source\repos\LumiaMVC1\Business\bin\Debug\net6.0\Data.pdb
+C:\Users\ca.r213.08\source\repos\LumiaMVC1\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\ca.r213.08\source\repos\LumiaMVC1\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\ca.r213.08\source\repos\LumiaMVC1\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r213.08\source\repos\LumiaMVC1\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\ca.r213.08\source\repos\LumiaMVC1\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\ca.r213.08\source\repos\LumiaMVC1\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\ca.r213.08\source\repos\LumiaMVC1\Business\obj\Debug\net6.0\Business.csproj.Up2Date
+C:\Users\ca.r213.08\source\repos\LumiaMVC1\Business\obj\Debug\net6.0\Business.dll
+C:\Users\ca.r213.08\source\repos\LumiaMVC1\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\ca.r213.08\source\repos\LumiaMVC1\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\ca.r213.08\source\repos\LumiaMVC1\Business\obj\Debug\net6.0\ref\Business.dll

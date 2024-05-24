@@ -1,0 +1,51 @@
+﻿@using Core.Models
+@model Team
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <form asp-action="Update" method="post" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">FullName</label>
+                    <input asp-for="FullName" class="form-control" id="exampleInputEmail1">
+                    <span asp-validation-for="FullName" style="color:red"></span>
+                </div>
+                <div class="mb-3">
+                    <label for="exampleInputPassword1" class="form-label">Role</label>
+                    <input asp-for="Title" class="form-control" id="exampleInputPassword1">
+                    <span asp-validation-for="Title" style="color:red"></span>
+                </div>
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Description</label>
+                    <input asp-for="Description" class="form-control" id="exampleInputEmail1">
+                    <span asp-validation-for="Description" style="color:red"></span>
+                </div>
+                <div class="mb-3">
+                    <label for="exampleInputPassword1" class="form-label">X</label>
+                    <input asp-for="XLink" class="form-control" id="exampleInputPassword1">
+                    <span asp-validation-for="XLink" style="color:red"></span>
+                </div>
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">FACEBOOK</label>
+                    <input asp-for="FbLink" class="form-control" id="exampleInputEmail1">
+                    <span asp-validation-for="FbLink" style="color:red"></span>
+                </div>
+                <div class="mb-3">
+                    <label for="exampleInputPassword1" class="form-label">INSTAGRAM</label>
+                    <input asp-for="IgLink" class="form-control" id="exampleInputPassword1">
+                    <span asp-validation-for="IgLink" style="color:red"></span>
+                </div>
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">LINKENDIN</label>
+                    <input asp-for="InLink" class="form-control" id="exampleInputEmail1">
+                    <span asp-validation-for="InLink" style="color:red"></span>
+                </div>
+                <div class="mb-3">
+                    <label for="exampleInputPassword1" class="form-label">Image file</label>
+                    <input asp-for="ImageFile" type="file" class="form-control" id="exampleInputPassword1">
+                    <span asp-validation-for="ImageFile" style="color:red"></span>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
